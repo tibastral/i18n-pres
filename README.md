@@ -14,6 +14,8 @@ Simply type
     $ rake
 
 
+---
+
 (c) Copyright 2010 Thibaut Assus
 
 Permission is hereby granted, free of charge, to any person
