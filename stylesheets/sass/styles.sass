@@ -1,13 +1,27 @@
+$base_color: rgb(100, 100, 50)
 body
-  background-color: #ccc
+  background-color: #222
+  color: lighten($base_color, 30%)
+  font-size: 200%
 
-.yaml
+a
+  color: mix($base_color, #22b)
+
+.code
+  font-size: 70%
   border-radius: 3px
   background-color: #bbb
   -webkit-box-shadow: 0 0 1em #bbb
-  margin: 2em
+  margin: 1em
   padding: 1em
+  color: $base_color
+
+.ruby
+  font-size: 60%
+  
   
 h1, h2, h3, h4
   text-shadow: #999 0 0 20px
-  color: rgb(100, 100, 50)
+  color: lighten($base_color, 60%)
+  margin-bottom: 0.2em
+  margin-top: 0.2em
