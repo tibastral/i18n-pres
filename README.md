@@ -16,7 +16,7 @@ Simply type
 
 ---
 
-(c) Copyright 2010 Thibaut Assus
+(c) Copyright 2011 Thibaut Assus
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
